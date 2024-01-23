@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🏎️ I’m currently working on (Slick Telemetry)[https://github.com/Slick-Telemetry]
+- 📑 I’m also currently working on (App Status)[https://github.com/Lombardoc4/App-Status]
+- 🌱 I’m currently learning project management and testing through (Cypress)[https://www.cypress.io/]
+- 📫 How to reach me: lom13@pm.me
+
+- 🏃.💨 Fun fact: Training to run multiple half-marathons this year!
+
 <!--
 **Lombardoc4/Lombardoc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
