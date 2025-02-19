@@ -1,10 +1,13 @@
 ### Hellooo 👋
 
-- 🏎️ I’m currently working on [Slick Telemetry](https://github.com/Slick-Telemetry)
-- 📑 I’m also currently working on [App Status](https://github.com/Lombardoc4/App-Status)
-- 🌱 I’m currently learning project management and testing with [Cypress](https://www.cypress.io/)
+- 🏎️ I’m currently collaborating on [Slick Telemetry](https://github.com/Slick-Telemetry)
+- 📑 I’m currently working on [National Park Explorer](https://github.com/Lombardoc4/np-explorer)
+- 🧪 I’m strenghthening my testing skills with [Jest](https://jestjs.io/) and [Cypress](https://www.cypress.io/)
 
-- 🏃.💨 Fun fact: I'm training to run multiple half-marathons this year!
+**Fun Facts:**
+- 🏃💨 I'm training to run multiple half-marathons this year!
+- 💬 Ask me about Formula 1 or plants
+- 🦋 Learning spanish
 
 <!--
 **Lombardoc4/Lombardoc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
